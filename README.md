@@ -26,7 +26,7 @@ I am solving this challenges to learn **Linux** more, i am already currently lea
 
 | Wargame                                            | Progress | Walkthrough Link                                      |
 | -------------------------------------------------- | -------- | ----------------------------------------------------- |
-| [Bandit](https://overthewire.org/wargames/bandit/) | 🚧       | [Bandit Walkthrough](link-to-your-walkthrough-folder) |
+| [Bandit](https://overthewire.org/wargames/bandit/) | 🚧       | [Bandit Walkthrough](https://github.com/bettercallsmyt/OverTheWire-Challenges/tree/main/bandit) |
 | Leviathan                                          | ❌        | [Leviathan Walkthrough](link)                         |
 | Narnia                                             | ❌        |                                                       |
 
