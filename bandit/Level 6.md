@@ -54,3 +54,4 @@ Learn and enjoy!
 
 ## Helpful Reading Material
 - ``man find`` - to learn more about the find command
+- ``man cat`` - to learn about cat command
