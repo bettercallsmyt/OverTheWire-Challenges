@@ -44,7 +44,6 @@ Learn and Enjoy!
 
 ## Password
 `[REDACTED]`
-8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
 
 ---
 
